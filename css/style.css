@@ -1,9 +1,35 @@
+/* Global */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+
 header {
-    margin: 50px 0;
+    margin: 40px 0 75px;
 }
 
 .imgHeader {
     width: 60%;
     margin: 0 auto;
     text-align: center;
+}
+
+/* Main */
+
+.main {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.songTitle {
+    text-align: center;
+}
+
+h1 {
+    padding: 10px;
+    margin-bottom: 50px;
 }
